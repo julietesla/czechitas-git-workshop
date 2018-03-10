@@ -9,6 +9,6 @@ B1 - hromada sešitů
 B2 - pracovní plocha
 B3 - pracovní plocha
 B4 - pracovní plocha
-B5
+B5 - kafe
 
 Napíšu si nějakou změnu.
