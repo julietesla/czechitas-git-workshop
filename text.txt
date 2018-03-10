@@ -1,4 +1,4 @@
-psací stůl bla bla bla mám hlad blabla
+psací stůl bla bla bla mám hlad
 
 A1 - hromada sešitů
 A2
@@ -10,5 +10,3 @@ B2 - pracovní plocha
 B3 - pracovní plocha
 B4 - pracovní plocha
 B5
-
-Napíšu si nějakou změnu.
